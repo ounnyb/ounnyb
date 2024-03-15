@@ -6,11 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ounnyb/ounnyb.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "ethers": "^6.11.1",
-    "exceljs": "^4.4.0"
+    "exceljs": "^4.4.0",
+    "user": "^0.0.0"
   }
 }
